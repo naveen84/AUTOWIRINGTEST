@@ -13,6 +13,7 @@ public class Movie
 	//changed in website
 	//@Autowired
 	//private MovieService service;
+	//adding new source code 
 	@Autowired
 	private MovieService service2;
 	
