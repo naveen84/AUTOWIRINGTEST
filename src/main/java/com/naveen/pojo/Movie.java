@@ -10,7 +10,7 @@ public class Movie
 	private int id;
 	private String name;
 	//committing the changes
-	
+	//changed in website
 	//@Autowired
 	//private MovieService service;
 	@Autowired
