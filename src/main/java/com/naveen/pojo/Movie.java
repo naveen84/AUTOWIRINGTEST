@@ -9,6 +9,7 @@ public class Movie
 {
 	private int id;
 	private String name;
+	//committing the changes
 	
 	//@Autowired
 	//private MovieService service;
